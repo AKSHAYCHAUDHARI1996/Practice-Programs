@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<Windows.h>
 #define TRUE 1
 #define FALSE 0
 
@@ -55,6 +54,5 @@ int main()
 	{
 		printf("strings are not anagaram");
 	}
-	system("PAUSE");
 	return 0;
 }
